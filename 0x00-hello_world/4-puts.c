@@ -2,10 +2,9 @@
 
 /**
 *
-* main - print the string in the put function
-* Description: using the main function 
-* this program print "Programminf is like building a multilingual puzzle
-* Return: 0
+* main - main - entry point
+* 
+* Return: 0 after printing the function
 */
 int main(void)
 {
